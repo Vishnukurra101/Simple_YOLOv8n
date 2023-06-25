@@ -1,5 +1,7 @@
--  Hi, I’m *Kurra Vishnuvardhan*
--  I’m interested in music, gaming and gym
--  I’m currently learning NLP
--  How to reach me  www.linkedin.com/in/kurravishnu101
--  If you think anything is wrong with my code please let me know
+-  Hi, I’m *Kurra Vishnuvardhan*.
+-  This code is a simple representation of how to use the YOLOv8n model.
+-  You can make changes to This or run it in your Kaggle account to understand it better.
+-  The dataset that I used for this is https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detection
+-  If you want to reach out to me, This is my LinkedIn  www.linkedin.com/in/kurravishnu101
+-  Please let me know if anything is wrong with my code.
+-  Also https://www.kaggle.com/vishnu1233
