@@ -1,4 +1,3 @@
--  Hi, I’m *Kurra Vishnuvardhan*.
 -  This code is a simple representation of how to use the YOLOv8n model.
 -  You can make changes to This or run it in your Kaggle account to understand it better.
 -  The dataset that I used for this is https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detection
